@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "categorie": "Sports Mécaniques",
+    "libelle": "Combien de titres de champion du monde de F1 Lewis Hamilton a-t-il remportés ?",
+    "options": ["5", "6", "7", "8"],
+    "bonne_reponse": "7"
+  },
+  {
+    "id": 2,
+    "categorie": "Manga/Anime",
+    "libelle": "Quel est le nom du fruit du démon mangé par Luffy dans One Piece ?",
+    "options": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Kage Kage no Mi", "Hito Hito no Mi"],
+    "bonne_reponse": "Gomu Gomu no Mi"
+  },
+  {
+    "id": 3,
+    "categorie": "Sports Collectifs",
+    "libelle": "Quelle équipe de la NBA détient le record du plus grand nombre de victoires en une seule saison régulière (73-9) ?",
+    "options": ["Chicago Bulls", "Golden State Warriors", "Los Angeles Lakers", "Boston Celtics"],
+    "bonne_reponse": "Golden State Warriors"
+  },
+  {
+    "id": 4,
+    "categorie": "Sports Mécaniques",
+    "libelle": "Sur quel circuit se déroule traditionnellement le Grand Prix d'Italie de F1 ?",
+    "options": ["Imola", "Monza", "Mugello", "Vallelunga"],
+    "bonne_reponse": "Monza"
+  },
+  {
+    "id": 5,
+    "categorie": "Manga/Anime",
+    "libelle": "Dans Naruto, qui est le premier grand ennemi que l'équipe 7 affronte au Pays des Vagues ?",
+    "options": ["Orochimaru", "Zabuza Momochi", "Itachi Uchiha", "Gaara"],
+    "bonne_reponse": "Zabuza Momochi"
+  },
+  {
+    "id": 6,
+    "categorie": "Sports Collectifs",
+    "libelle": "Quel joueur est représenté sur le logo officiel de la NBA ?",
+    "options": ["Michael Jordan", "Jerry West", "Magic Johnson", "Kobe Bryant"],
+    "bonne_reponse": "Jerry West"
+  },
+  {
+    "id": 7,
+    "categorie": "Manga/Anime",
+    "libelle": "Quel studio d'animation a produit l'anime 'Attack on Titan' pour ses trois premières saisons ?",
+    "options": ["MAPPA", "Wit Studio", "Toei Animation", "Ufotable"],
+    "bonne_reponse": "Wit Studio"
+  },
+  {
+    "id": 8,
+    "categorie": "Sports Mécaniques",
+    "libelle": "Quel pilote détient le record du plus jeune champion du monde de l'histoire de la F1 ?",
+    "options": ["Max Verstappen", "Lewis Hamilton", "Sebastian Vettel", "Fernando Alonso"],
+    "bonne_reponse": "Sebastian Vettel"
+  },
+  {
+    "id": 9,
+    "categorie": "Sports Collectifs",
+    "libelle": "Combien de points vaut un lancer franc réussi au basket-ball ?",
+    "options": ["1 point", "2 points", "3 points", "0 point"],
+    "bonne_reponse": "1 point"
+  },
+  {
+    "id": 10,
+    "categorie": "Manga/Anime",
+    "libelle": "Dans Death Note, quel aliment Light Yagami utilise-t-il pour cacher sa mini-télévision ?",
+    "options": ["Une pomme", "Un paquet de chips", "Un paquet de gâteaux", "Un bol de ramen"],
+    "bonne_reponse": "Un paquet de chips"
+  }
+]
